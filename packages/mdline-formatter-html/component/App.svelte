@@ -4,7 +4,7 @@
   
     <li>
         <span></span>
-        <div class="title">{item.title}</div>
+        <h1 class="title">{item.title}</h1>
         <div class="info">{@html item.bodyHTML}</div>
         <div class="name"></div>
         <div class="time">

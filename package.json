@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "root",
+  "name": "mdline-theme-cayden",
   "version": "1.0.0",
   "description": "Markdown timeline format and toolkit.",
   "keywords": [
@@ -12,13 +12,13 @@
   "workspaces": [
     "packages/*"
   ],
-  "homepage": "https://github.com/azu/mdline",
+  "homepage": "https://github.com/qingzhi0508/mdline",
   "bugs": {
-    "url": "https://github.com/azu/mdline/issues"
+    "url": "https://github.com/qingzhi0508/mdline/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azu/mdline.git"
+    "url": "https://github.com/qingzhi0508/mdline.git"
   },
   "license": "MIT",
   "author": "azu",
