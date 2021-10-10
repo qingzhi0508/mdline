@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "mdline-theme-cayden",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Markdown timeline format and toolkit.",
   "keywords": [
     "format",
@@ -21,7 +21,7 @@
     "url": "https://github.com/qingzhi0508/mdline.git"
   },
   "license": "MIT",
-  "author": "azu",
+  "author": "cayden",
   "files": [
     "bin/",
     "lib/",
